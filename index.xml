@@ -3,12 +3,12 @@
   <channel>
     <title>Minecraft Java Patch Notes</title>
     <link>https://jeeukko.github.io/minecraft-news-feed/index.xml</link>
-    <description>Latest Minecraft Java Edition patch notes.</description>
+    <description>Latest Minecraft Java Edition patch notes</description>
     <atom:link href="https://jeeukko.github.io/minecraft-news-feed/index.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Mar 2025 19:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 19:20:36 +0000</lastBuildDate>
     <item>
       <title>Minecraft Snapshot 25w09b</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w09b</link>
