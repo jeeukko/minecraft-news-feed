@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Mar 2025 14:09:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 15:10:14 +0000</lastBuildDate>
     <item>
       <title>Minecraft Snapshot 25w10a</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w10a</link>
@@ -1272,6 +1272,13 @@ Added Hoglins - they don't do much yet, but they have cute flappy ears!
 Patrols no longer spawn when the play</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-snapshot-20w06a</guid>
       <pubDate>Wed, 05 Feb 2020 16:05:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Minecraft 1.21.5 Pre-Release 1</title>
+      <link>https://www.minecraft.net/en-us/article/minecraft-1-21-5-pre-release-1</link>
+      <description>Today we're shipping the first pre-release of Minecraft 1.21.5. From now on you will mostly see bug fixes and technical tweaks until the start of the next snapshot cycle. As we enter the pre-release phase we will be releasing more frequently than our regul</description>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-21-5-pre-release-1</guid>
+      <pubDate>Tue, 11 Mar 2025 14:57:55 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 1.21.4 Release Candidate 3</title>
