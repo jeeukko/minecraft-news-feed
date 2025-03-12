@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Mar 2025 15:10:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 16:11:59 +0000</lastBuildDate>
     <item>
       <title>Minecraft Snapshot 25w10a</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w10a</link>
@@ -1274,7 +1274,7 @@ Patrols no longer spawn when the play</description>
       <pubDate>Wed, 05 Feb 2020 16:05:22 +0000</pubDate>
     </item>
     <item>
-      <title>Minecraft 1.17.1 Release Candidate 2</title>
+      <title>Minecraft 1.21.5 Pre Release 2</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-1-21-5-pre-release-2</link>
       <description>We're shipping some crash fixes in today's pre-release.Technical ChangesThe Data Pack version is now 71 since this was missed in Pre-Release 1Fixed bugs in 1.21.5 Pre-Release 2MC-280482 Main menu is totally broken when using Mesa 25.0MC-296644 Game crashes</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-21-5-pre-release-2</guid>
