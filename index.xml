@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Apr 2025 13:21:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 14:10:14 +0000</lastBuildDate>
+    <item>
+      <title>Minecraft Snapshot 25w16a</title>
+      <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w16a</link>
+      <description>In this week’s snapshot leads are getting new mechanics making it possible to leash mobs together or leash them to entities like boats! Now you can travel the desert with your own camel caravan or airlift your treasures in a boat with chest attached to you</description>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-snapshot-25w16a</guid>
+      <pubDate>Tue, 15 Apr 2025 13:57:06 +0000</pubDate>
+    </item>
     <item>
       <title>Minecraft Snapshot 25w15a</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w15a</link>
