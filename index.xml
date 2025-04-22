@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Apr 2025 14:09:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 15:10:11 +0000</lastBuildDate>
+    <item>
+      <title>Minecraft Snapshot 25w17a</title>
+      <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w17a</link>
+      <description>After a long weekend we are back with another snapshot! This week we are moving the locator bar out of experiments, try it out and continue to give us your feedback over at feedback.minecraft.net. We have also made some improvements to the Realms UI includ</description>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-snapshot-25w17a</guid>
+      <pubDate>Tue, 22 Apr 2025 13:58:17 +0000</pubDate>
+    </item>
     <item>
       <title>Minecraft Snapshot 25w16a</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w16a</link>
