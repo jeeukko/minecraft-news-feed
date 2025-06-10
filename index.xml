@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Jun 2025 13:26:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 14:10:25 +0000</lastBuildDate>
     <item>
       <title>Minecraft Snapshot 25w21a</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w21a</link>
@@ -1321,6 +1321,13 @@ Added Hoglins - they don't do much yet, but they have cute flappy ears!
 Patrols no longer spawn when the play</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-snapshot-20w06a</guid>
       <pubDate>Wed, 05 Feb 2020 16:05:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Minecraft 1.21.6 Pre-Release 4</title>
+      <link>https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-4</link>
+      <description>We are now releasing Pre-Release 4 for Minecraft 1.21.6, with a few minor bug fixes.Happy crafting!Fixed bugs in 1.21.6 Pre-Release 4MC-279417 Luring mobs onto blocks at Y=-64 will instead make them pathfind to the highest elevationMC-298446 The "Thunder r</description>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-4</guid>
+      <pubDate>Tue, 10 Jun 2025 12:46:46 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 1.21.6 Pre-Release 3</title>
