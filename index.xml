@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Sep 2025 14:10:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 15:10:21 +0000</lastBuildDate>
+    <item>
+      <title>Minecraft Snapshot 25w36a</title>
+      <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w36a</link>
+      <description>Snapshot 25w36a is out and it includes mannequins, a new technical entity that is spawned with commands and can be used as an NPC. Conflicting key binds will now function together allowing you to bind a key to multiple actions. And as always, this snapshot</description>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-snapshot-25w36a</guid>
+      <pubDate>Tue, 02 Sep 2025 13:59:18 +0000</pubDate>
+    </item>
     <item>
       <title>Minecraft Snapshot 25w35a</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w35a</link>
