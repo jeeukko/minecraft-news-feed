@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Dec 2025 15:12:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 16:14:28 +0000</lastBuildDate>
     <item>
       <title>Minecraft Snapshot 25w46a</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w46a</link>
@@ -28,14 +28,14 @@
       <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w44a</link>
       <description>With today's thrilling new Snapshot, we're bringing more mounts – and more mayhem! Meet the camel husk, an undead passive mob that thrives in the desert, and come face to face with its hostile riders! Ridden by a husk, the camel husk also spawns with a sec</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-snapshot-25w44a</guid>
-      <pubDate>Tue, 28 Oct 2025 15:02:37 +0000</pubDate>
+      <pubDate>Tue, 28 Oct 2025 15:02:36 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft Snapshot 25w43a</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w43a</link>
       <description>In today's snapshot we've got some changes to the spear and its unique Lunge enchantment! Spears will now deal more damage with the charge attack, and using the charge attack provides some visual feedback, so you'll know when you've landed your target! The</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-snapshot-25w43a</guid>
-      <pubDate>Tue, 21 Oct 2025 14:04:39 +0000</pubDate>
+      <pubDate>Tue, 21 Oct 2025 14:04:40 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft Snapshot 25w42a</title>
@@ -77,14 +77,14 @@
       <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w35a</link>
       <description>In this week's snapshot we are adding a Minecraft Server Management Protocol which lets servers query players, tweak game rules, update server settings, and listen for real-time server event notifications. Some server properties have been moved to game rul</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-snapshot-25w35a</guid>
-      <pubDate>Tue, 26 Aug 2025 14:31:22 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 14:31:21 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft Snapshot 25w34b</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w34b</link>
       <description>Here is snapshot 25w34b to fix a connectivity error with Realms that snuck into 25w34a.Fixed bugs in 25w34bMC-300911 Glowing item &amp;#38 block displays no longer glow</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-snapshot-25w34b</guid>
-      <pubDate>Tue, 19 Aug 2025 15:22:26 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 15:22:25 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft Snapshot 25w34a</title>
@@ -112,7 +112,7 @@
       <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w31a</link>
       <description>Oh, how we have yearned for the shipping room! We're back with our first snapshot release of the season, bringing you a big bundle of features from our third game drop of the year. Test the copper golem and copper chest for a tidier, livelier base, and wat</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-snapshot-25w31a</guid>
-      <pubDate>Tue, 29 Jul 2025 13:59:29 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 13:59:28 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft Snapshot 25w21a</title>
@@ -161,14 +161,14 @@
       <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w15a</link>
       <description>Snapshot on a Tuesday? Yes! From now on we will be moving snapshots to the same weekday as full releases, Tuesdays.This week we are releasing the first snapshot of the second game drop of 2025, including the happy ghast, ghastling, dried ghast and ghast ha</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-snapshot-25w15a</guid>
-      <pubDate>Tue, 08 Apr 2025 14:00:38 +0000</pubDate>
+      <pubDate>Tue, 08 Apr 2025 14:00:39 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft Snapshot 25w10a</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w10a</link>
       <description>It's time for a new Minecraft snapshot! We've got some more under-the-hood updates including a tntExplodes game rule previously found in Bedrock edition, new features in SNBT syntax, and allowing all entities to store custom data. We also have some more bu</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-snapshot-25w10a</guid>
-      <pubDate>Wed, 05 Mar 2025 14:48:36 +0000</pubDate>
+      <pubDate>Wed, 05 Mar 2025 14:48:35 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft Snapshot 25w09b</title>
@@ -189,7 +189,7 @@
       <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w08a</link>
       <description>We're adding some new, fun and cute features in this week's snapshot. Spawn eggs just got cuter with new textures looking more like the mobs they spawn. Wolves are becoming even more unique with their own individual sounds. When a wolf spawns, it will get </description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-snapshot-25w08a</guid>
-      <pubDate>Wed, 19 Feb 2025 16:00:14 +0000</pubDate>
+      <pubDate>Wed, 19 Feb 2025 16:00:15 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft Snapshot 25w07a</title>
@@ -217,21 +217,21 @@
       <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w04a</link>
       <description>It's time for another snapshot! To kick things off, we are reverting the fixes for MC-271065 and MC-152728.This week's snapshot also comes with a whole slew of datapack updates, including new components and item model capabilities. If you like to play arou</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-snapshot-25w04a</guid>
-      <pubDate>Wed, 22 Jan 2025 14:00:58 +0000</pubDate>
+      <pubDate>Wed, 22 Jan 2025 13:59:58 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft Snapshot 25w03a</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w03a</link>
       <description>This week's snapshot comes with a huge update to game tests! The game tests system is now accessible through data packs with the new test command. You can now run block based tests with the new test block or set up even more versatile test from code in mod</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-snapshot-25w03a</guid>
-      <pubDate>Wed, 15 Jan 2025 14:56:24 +0000</pubDate>
+      <pubDate>Wed, 15 Jan 2025 14:55:33 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft Snapshot 25w02a</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w02a</link>
       <description>It's the first snapshot Wednesday of 2025, and we have some fun new features to kick off the new year. This snapshot adds new ambient features to the game, including wildflowers, leaf litter, and falling leaves. Pigs are getting two new variants: you may v</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-snapshot-25w02a</guid>
-      <pubDate>Wed, 08 Jan 2025 15:00:21 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 14:59:34 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft Snapshot 24w46a</title>
@@ -1446,7 +1446,7 @@ Patrols no longer spawn when the play</description>
       <link>https://www.minecraft.net/en-us/article/minecraft-1-21-9-pre-release-3</link>
       <description>We'll kick the week off with a third pre-release for the Copper Age Drop. This pre-release includes a performance update and bug fix for the copper golem.Fixed bugs in 1.21.9 Pre-Release 3MC-301963 Copper golems cause huge lag spikes when checking chestsMC</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-21-9-pre-release-3</guid>
-      <pubDate>Mon, 22 Sep 2025 13:30:14 +0000</pubDate>
+      <pubDate>Mon, 22 Sep 2025 13:30:15 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 1.21.9 Pre-Release 2</title>
@@ -1481,7 +1481,7 @@ Patrols no longer spawn when the play</description>
       <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-8</link>
       <description>Nothing beats graphical corruption and freeze issues like a blazing, steamy hotfix. Today we are releasing 1.21.8 fixing various issues experienced on certain graphics devices.Fixed bugs in 1.21.8MC-295947 The game screen occasionally freezes while the gam</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-8</guid>
-      <pubDate>Thu, 17 Jul 2025 13:18:22 +0000</pubDate>
+      <pubDate>Thu, 17 Jul 2025 13:18:19 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 1.21.7 Release Candidate 2</title>
@@ -1509,14 +1509,14 @@ Patrols no longer spawn when the play</description>
       <link>https://www.minecraft.net/en-us/article/minecraft-1-21-6-release-candidate-1</link>
       <description>As we get ready to Chase the Skies, here comes the first test flight of 1.21.6 - Release Candidate 1!Happy Ghast(-ing)!Fixed bugs in 1.21.6 Release Candidate 1MC-298022 Not signed Books and Quills with an overflowing new line at the bottom do not depict th</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-21-6-release-candidate-1</guid>
-      <pubDate>Thu, 12 Jun 2025 12:59:09 +0000</pubDate>
+      <pubDate>Thu, 12 Jun 2025 12:59:10 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 1.21.6 Pre-Release 4</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-4</link>
       <description>We are now releasing Pre-Release 4 for Minecraft 1.21.6, with a few minor bug fixes.Happy crafting!Fixed bugs in 1.21.6 Pre-Release 4MC-279417 Luring mobs onto blocks at Y=-64 will instead make them pathfind to the highest elevationMC-298446 The "Thunder r</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-4</guid>
-      <pubDate>Tue, 10 Jun 2025 12:46:46 +0000</pubDate>
+      <pubDate>Tue, 10 Jun 2025 12:46:45 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 1.21.6 Pre-Release 3</title>
@@ -1530,7 +1530,7 @@ Patrols no longer spawn when the play</description>
       <link>https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-2</link>
       <description>We're kicking the week off with another pre-release, including some music and happy ghast bug fixes. The Chase the Skies drop is getting closer and the pre-release schedule might include more than one pre-release per week.ChangesMusic and SoundThe followin</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-2</guid>
-      <pubDate>Mon, 02 Jun 2025 14:30:18 +0000</pubDate>
+      <pubDate>Mon, 02 Jun 2025 14:30:17 +0000</pubDate>
     </item>
     <item>
       <title>1.21.6 Pre-Release 1</title>
@@ -1572,7 +1572,7 @@ Patrols no longer spawn when the play</description>
       <link>https://www.minecraft.net/en-us/article/minecraft-1-21-5-pre-release-2</link>
       <description>We're shipping some crash fixes in today's pre-release.Technical ChangesThe Data Pack version is now 71 since this was missed in Pre-Release 1Fixed bugs in 1.21.5 Pre-Release 2MC-280482 Main menu is totally broken when using Mesa 25.0MC-296644 Game crashes</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-21-5-pre-release-2</guid>
-      <pubDate>Wed, 12 Mar 2025 14:56:39 +0000</pubDate>
+      <pubDate>Wed, 12 Mar 2025 14:56:40 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 1.21.5 Pre-Release 1</title>
@@ -1712,7 +1712,7 @@ Patrols no longer spawn when the play</description>
       <link>https://www.minecraft.net/en-us/article/minecraft-1-21-11-release-candidate-2</link>
       <description>Today we are shipping Release Candidate 2, fixing a crash issue affecting some players.Happy mining!StabilityFixed a crash</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-21-11-release-candidate-2</guid>
-      <pubDate>Fri, 05 Dec 2025 13:17:15 +0000</pubDate>
+      <pubDate>Fri, 05 Dec 2025 13:17:13 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 1.21.11 Release Candidate 1</title>
@@ -1755,6 +1755,13 @@ Patrols no longer spawn when the play</description>
       <description>Today we are shipping the first pre-release of 1.21.11, the Mounts of Mayhem drop. From now on, you should mostly see bugs being fixed. In addition to that, pre-releases don't follow the regular snapshot cadence of releasing on Tuesdays, so keep an eye out</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-1</guid>
       <pubDate>Wed, 19 Nov 2025 10:27:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Minecraft: Java Edition 1.21.11</title>
+      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-11</link>
+      <description>Today Mounts of Mayhem charges into Minecraft, bringing a new weapon to wield, mounts to tame, foes to face, and strategies to master! Challengers await beneath scorching suns, night skies, and deep in the ocean’s depths – and each clash will demand a fres</description>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-11</guid>
+      <pubDate>Tue, 09 Dec 2025 15:59:14 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 1.21.10 Release Candidate 1</title>
