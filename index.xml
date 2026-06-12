@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 09:53:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 12:47:13 +0000</lastBuildDate>
     <item>
       <title>Minecraft 26.2 Snapshot 8</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2-snapshot-8</link>
@@ -57,6 +57,13 @@
       <description>We are back in the shipping room once more with a jam-packed snapshot Tuesday!Test the first features from our next drop, Chaos Cubed! Scour the Overworld for sulfur springs and then dig down to discover what lies below. Meet the sulfur cube – a curious ne</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2-snapshot-1</guid>
       <pubDate>Tue, 07 Apr 2026 14:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Minecraft 26.2 Release Candidate 2</title>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-release-candidate--2</link>
+      <description>A second release candidate has arrived! In this one we are fixing a couple of critical issues found in the previous release candidate.Happy mining!Fixed bugs in 26.2 Release Candidate 2MC-308731 - With a specific setup, a survival player can become softloc</description>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-release-candidate--2</guid>
+      <pubDate>Fri, 12 Jun 2026 12:22:59 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.2 Release Candidate 1</title>
