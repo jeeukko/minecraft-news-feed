@@ -8,16 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 11:25:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 14:53:46 +0000</lastBuildDate>
     <item>
       <title>Minecraft 26.3 Snapshot 2</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-3-snapshot-2</link>
       <description>We're back with the second snapshot for 26.3! This week brings a new rendering option designed to improve transparency handling in Minecraft Java. We've also optimized certain mob behaviors when players aren't nearby, made a few gameplay adjustments, inclu</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-3-snapshot-2</guid>
-      <pubDate>Tue, 30 Jun 2026 13:59:14 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 13:59:13 +0000</pubDate>
     </item>
     <item>
-      <title>26.3 Snapshot 1</title>
+      <title>Minecraft 26.3 Snapshot 1</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-3-snapshot-1</link>
       <description>Word around the campfire is the new forest biome is out in testing! But if nobody's been to the dappled forest before, who built the abandoned camp? And what loot did they leave among the poplar trees and red shrubs? Scout out the place and set up shelter </description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-3-snapshot-1</guid>
