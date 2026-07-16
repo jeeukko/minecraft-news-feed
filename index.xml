@@ -8,138 +8,138 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 17:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 17:37:17 +0000</lastBuildDate>
     <item>
       <title>Minecraft 26.3 Snapshot 4</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-3-snapshot-4</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4</link>
       <description>Known IssuesExclusive fullscreen mode on Windows may cause the game to crash in certain situations, especially when using multiple monitorsEntering Exclusive fullscreen mode crashes the game on WaylandNew FeaturesPlayers in spectator mode can now interact </description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-3-snapshot-4</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4</guid>
       <pubDate>Thu, 16 Jul 2026 14:40:23 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.3 Snapshot 3</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-3-snapshot-3</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-3</link>
       <description>Tuesday? Pfft. It's snapshot day! Today's snapshot introduces two brand-new features coming to 26.3: perfect for anyone that loves to camp in comfort. The cushion, coming in 16 color variants, finally brings the ability to sit down around a campfire. To go</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-3-snapshot-3</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-3</guid>
       <pubDate>Tue, 07 Jul 2026 13:59:02 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.3 Snapshot 2</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-3-snapshot-2</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-2</link>
       <description>We're back with the second snapshot for 26.3! This week brings a new rendering option designed to improve transparency handling in Minecraft Java. We've also optimized certain mob behaviors when players aren't nearby, made a few gameplay adjustments, inclu</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-3-snapshot-2</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-2</guid>
       <pubDate>Tue, 30 Jun 2026 13:59:14 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.3 Snapshot 1</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-3-snapshot-1</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-1</link>
       <description>Word around the campfire is the new forest biome is out in testing! But if nobody's been to the dappled forest before, who built the abandoned camp? And what loot did they leave among the poplar trees and red shrubs? Scout out the place and set up shelter </description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-3-snapshot-1</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-1</guid>
       <pubDate>Tue, 23 Jun 2026 14:02:20 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.2 Snapshot 8</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2-snapshot-8</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-8</link>
       <description>Today we're shipping 26.2 Snapshot 8! OpenGL is now the default, while Vulkan moves into experimental territory. You'll also find updates to the sulfur cave and sulfur cube, along with beds that are now a bit bouncier than before!Happy bouncing!New Feature</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2-snapshot-8</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-8</guid>
       <pubDate>Tue, 19 May 2026 15:39:47 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.2 Snapshot 7</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2-snapshot-7</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-7</link>
       <description>In today's snapshot we're introducing the new Friends List for Java Edition, making it easier than ever to stay connected and jump into play together. Curious how it works? You can read more about Friends List here.But that's not all! We might be feature c</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2-snapshot-7</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-7</guid>
       <pubDate>Tue, 12 May 2026 15:03:18 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.2 Snapshot 6</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2-snapshot-6</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-6</link>
       <description>Test the final features from Chaos Cubed in 26.2 snapshot 6! Feed magma to sulfur cubes and watch them heat up – but don't touch them unless it's for science! A new potential effect makes sulfur cubes slow, heavy and bouncy, but what block causes it? It's </description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2-snapshot-6</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-6</guid>
       <pubDate>Tue, 05 May 2026 14:00:09 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.2 Snapshot 5</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2-snapshot-5</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-5</link>
       <description>Boom!! 26.2 Snapshot 5 just exploded into the scene! This snapshot introduces erupting Geysers and a new explosive archetype for the Sulfur Cube!Happy mining!New FeaturesNew Sulfur Cube archetype: ExplosivePotent Sulfur can now form GeysersSulfur Cube mobW</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2-snapshot-5</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-5</guid>
       <pubDate>Tue, 28 Apr 2026 14:01:51 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.2 Snapshot 4</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2-snapshot-4</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-4</link>
       <description>Today we thought we'd bring you a fourth snapshot for 26.2! With this release we have added in language support for two new languages and made some changes to the sulfur cube and the sulfur cave biome. Also in this release, our peaceful players can now spa</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2-snapshot-4</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-4</guid>
       <pubDate>Tue, 21 Apr 2026 14:01:03 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.2 Snapshot 3</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2-snapshot-3</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-3</link>
       <description>We are back again with a third snapshot for 26.2, today we are bringing you sulfur spikes to test out! These sharp blocks grow in sulfur caves, adding a colorful, pointy touch to your builds! But watch out - falling sulfur spikes sure pack a puncture!Happy</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2-snapshot-3</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-3</guid>
       <pubDate>Tue, 14 Apr 2026 13:58:55 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.2 Snapshot 1</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2-snapshot-1</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-1</link>
       <description>We are back in the shipping room once more with a jam-packed snapshot Tuesday!Test the first features from our next drop, Chaos Cubed! Scour the Overworld for sulfur springs and then dig down to discover what lies below. Meet the sulfur cube – a curious ne</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2-snapshot-1</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-snapshot-1</guid>
       <pubDate>Tue, 07 Apr 2026 14:00:21 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.2 Release Candidate 2</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-release-candidate--2</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-release-candidate-2</link>
       <description>A second release candidate has arrived! In this one we are fixing a couple of critical issues found in the previous release candidate.Happy mining!Fixed bugs in 26.2 Release Candidate 2MC-308731 - With a specific setup, a survival player can become softloc</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-release-candidate--2</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-release-candidate-2</guid>
       <pubDate>Fri, 12 Jun 2026 12:22:59 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.2 Release Candidate 1</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-release-candidate--1</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-release-candidate-1</link>
       <description>Today we are shipping the first release candidate for 26.2 and the Chaos Cubed game drop! If no critical issues are found, this will be the version that we ship for the eventual full release.Happy mining!Fixed bugs in 26.2 Release Candidate 1MC-308716 Pres</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-release-candidate--1</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-release-candidate-1</guid>
       <pubDate>Thu, 11 Jun 2026 13:00:25 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.2 Pre-Release 6</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release--6</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-6</link>
       <description>Today we're shipping the 26.2 Pre-Release 6. This version includes a fix that allows proper spectating after dying in a hardcore world.Happy mining!ChangesRespawning (as a spectator) in a hardcore world no longer turns off the spectators_generate_chunks ga</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release--6</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-6</guid>
       <pubDate>Wed, 10 Jun 2026 14:02:34 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.2 Pre-Release 5</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release--5</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-5</link>
       <description>Today it is time for 26.2 Pre-Release 5, with a change to Hardcore mode settings along with other fixes! As announced at Minecraft Live, the drop is set to release on June 16!Happy (careful) hardcore mining!ChangesThe game setting for Graphics API now chan</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release--5</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-5</guid>
       <pubDate>Mon, 08 Jun 2026 13:54:53 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.2 Pre-Release 4</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release--4</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-4</link>
       <description>Today we are releasing 26.2 Pre-Release 4, with a couple of fixes and tweaks to the Chaos Cubed drop. As announced at Minecraft Live, the drop is set to release on June 16!Happy crafting!ChangesWhen the game is overwhelmed with particles, instead of removi</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release--4</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-4</guid>
       <pubDate>Thu, 04 Jun 2026 13:13:51 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.2 Pre-Release 3</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release--3</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-3</link>
       <description>Today we are shipping the third pre-release for 26.2, with a few changes and fixes!With today's pre-release we're reverting a fix that patched an exploit, known as "Attribute Swapping", for unrelated reasons. Please note that this does not mean "Attribute </description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release--3</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-3</guid>
       <pubDate>Tue, 02 Jun 2026 14:03:26 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.2 Pre-Release 2</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release--2</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-2</link>
       <description>Happy Thursday! Today we are bringing you Pre-Release 2, with a few bug fixes and improvements.Happy Mining!Technical ChangesThe Data Pack version is now 107.0Fixed bugs in 26.2 Pre-Release 2MC-305475 Tripwire above the player's head gets triggered twice w</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release--2</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-2</guid>
       <pubDate>Thu, 28 May 2026 14:15:09 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.2 Pre-Release 1</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release--1</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-1</link>
       <description>Today we're rolling out the first pre-release for 26.2! From this point on, you should mostly see bug fixes as we prepare for release. Pre-releases also break away from the usual Tuesday snapshot rhythm, so keep an eye out for the next one!With this pre-re</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release--1</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-1</guid>
       <pubDate>Tue, 26 May 2026 15:03:03 +0000</pubDate>
     </item>
     <item>
@@ -151,9 +151,9 @@
     </item>
     <item>
       <title>Minecraft 26.1.2 Release Candidate 1</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-2-release-candidate--1</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-2-release-candidate-1</link>
       <description>Today we are shipping the first release candidate for 26.1.2, fixing a couple of critical issues found in the release. If no further issues are encountered, 26.1.2 will be released tomorrow with no additional changes.Happy mining!</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-2-release-candidate--1</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-2-release-candidate-1</guid>
       <pubDate>Wed, 08 Apr 2026 14:02:08 +0000</pubDate>
     </item>
     <item>
@@ -165,9 +165,9 @@
     </item>
     <item>
       <title>Minecraft 26.1.1 Release Candidate 1</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-1-release-candidate--1</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-1-release-candidate-1</link>
       <description>We are releasing 26.1.1 Release Candidate 1, addressing an issue with player reporting that we missed in the previous version. If no further issues are encountered, we will release 26.1.1 tomorrow with no additional changes.Happy mining!Fixed bugs in 26.1.</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-1-release-candidate--1</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-1-release-candidate-1</guid>
       <pubDate>Tue, 31 Mar 2026 11:24:57 +0000</pubDate>
     </item>
     <item>
@@ -179,121 +179,121 @@
     </item>
     <item>
       <title>Minecraft 26.1 Snapshot 9</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-9</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-9</link>
       <description>A snapshot on a Wednesday, how very nostalgic! We're releasing 26.1 Snapshot 9 today to address two issues introduced in yesterday's snapshot - in particular, a crash that would occur when any entity traveled outside of the vertical boundaries of the world</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-9</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-9</guid>
       <pubDate>Wed, 18 Feb 2026 11:25:59 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.1 Snapshot 8</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-8</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-8</link>
       <description>Get ready to meet the last baby mobs waddling into testing! This week's snapshot brings you the final gameplay features of our upcoming drop. Happy mining!ChangesUpdated the visuals of more baby mobsDeepslate can now be directly crafted into their cobbled,</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-8</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-8</guid>
       <pubDate>Tue, 17 Feb 2026 15:56:05 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.1 Snapshot 7</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-7</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-7</link>
       <description>Sound the new trumpet note block instrument, it's Tuesday! With this week's release, our undead and hostile babies have a new scary strategy: looking even more adorable! The baby zombie, husk, zombie villager, piglin, zombified piglin, and drowned are stor</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-7</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-7</guid>
       <pubDate>Wed, 11 Feb 2026 12:09:49 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.1 Snapshot 6</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-6</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-6</link>
       <description>Beware! A pack of seven floofy and feral baby mobs have taken over the snapshot! These tiny foxes, polar bears, bees, llamas, armadillos, and goats might have snuggly new looks, but might not all be cuddle-friendly (or tamable!). From the icy tundra to the</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-6</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-6</guid>
       <pubDate>Tue, 03 Feb 2026 15:57:54 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.1 Snapshot 5</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-5</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-5</link>
       <description>With today's snapshot release, we're bringing you another set of features from our next game drop! Dive into testing with new versions of aquatic baby mobs and discover eternal youth! Making big waves for looking adorably tiny are new baby versions of the </description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-5</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-5</guid>
       <pubDate>Tue, 27 Jan 2026 16:02:19 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.1 Snapshot 4</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-4</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-4</link>
       <description>Earlier today we pranced into the shipping room in order to bring you the fourth snapshot of 26.1, featuring an equestrian batch of game drop cuteness. With this week's release, baby mounts are getting an adorable makeover! Donkeys. Mules. Every single hor</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-4</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-4</guid>
       <pubDate>Tue, 20 Jan 2026 15:58:54 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.1 Snapshot 3</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-3</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-3</link>
       <description>We're back in action with another Snapshot! In this week's release we're making it possible to access game rules from the in-game pause screen, through the new world options button. On the data pack side of things, we're introducing a new concept of world </description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-3</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-3</guid>
       <pubDate>Tue, 13 Jan 2026 15:01:49 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.1 Snapshot 2</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-2</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-2</link>
       <description>We're back from vacation and the lights are back on in the shipping room! In this very first Snapshot of the new year, we're bringing you the first features from our cutest game drop yet! Befriend floofier wolf pups, kittens, piglets, calves, lambs, baby c</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-2</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-2</guid>
       <pubDate>Wed, 07 Jan 2026 15:05:21 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.1 Snapshot 11</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-11</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-11</link>
       <description>Tuesday rolls around once more! We're back in the shipping room for another 26.1 snapshot and like a wise man once said, this one goes to 11. This week spells polish and finishing touches on our upcoming game drop features, technical changes, as well as bu</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-11</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-11</guid>
       <pubDate>Tue, 03 Mar 2026 14:56:20 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.1 Snapshot 10</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-10</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-10</link>
       <description>Another Tuesday, another snapshot! This week's release brings you some helpful new particles designed to better tell if your golden dandelion is keeping your mobs young or if you're about to reintroduce the concept of aging into their blocky lives. We've a</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-10</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-10</guid>
       <pubDate>Tue, 24 Feb 2026 15:59:58 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.1 Snapshot 1</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-1</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-1</link>
       <description>As the year draws to a close, we gather in the shipping room one more time to press the buttons that make snapshots happen! In this final release of 2025 we're (among other things) upgrading our runtime version of Java, giving villager trades the data-driv</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-snapshot-1</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-1</guid>
       <pubDate>Tue, 16 Dec 2025 13:32:25 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.1 Release Candidate 3</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate--3</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate-3</link>
       <description>Today we are shipping Release Candidate 3 for 26.1, addressing a bug in the Ender Dragon fight and fixing a crash.Happy mining!Fixed bugs in 26.1 Release Candidate 3MC-306989 The ender dragon initiates its death animation as soon as it dies, no matter how </description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate--3</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate-3</guid>
       <pubDate>Mon, 23 Mar 2026 13:52:43 +0000</pubDate>
     </item>
     <item>
       <title>26.1 Release Candidate 2</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate--2</link>
+      <link>https://www.minecraft.net/en-us/article/26-1-release-candidate-2</link>
       <description>Friday Surprise! Today we are shipping the second release candidate for 26.1 and the Tiny Takeover game drop to address an important internationalization issue. If no other critical issues are found, this will be the version that we ship for the eventual f</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate--2</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/26-1-release-candidate-2</guid>
       <pubDate>Fri, 20 Mar 2026 13:59:02 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.1 Release Candidate 1</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate--1</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate-1</link>
       <description>Today we are shipping the first release candidate for 26.1 and the Tiny Takeover game drop! If no critical issues are found, this will be the version that we ship for the eventual full release.Happy mining!</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate--1</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-release-candidate-1</guid>
       <pubDate>Thu, 19 Mar 2026 16:09:50 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.1 Pre-Release 3</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release--3</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release-3</link>
       <description>Today we are shipping the third pre-release with minor tech changes and bug fixes.Happy mining!Technical ChangesThe Data Pack version is now 101.1Data Pack Version 101.1World GenerationPlacement Modifierscount Placement ModifierThe count field is now limit</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release--3</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release-3</guid>
       <pubDate>Tue, 17 Mar 2026 15:01:10 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.1 Pre-Release 2</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release--2</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release-2</link>
       <description>Today we're shipping another pre-release for 26.1 that includes tech changes and fixes to features included in the Tiny Takeover game drop.Happy Friday mining!ChangesUpdated the dismount speed thresholds for Spears to match BedrockFixed issue with Baby Axo</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release--2</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release-2</guid>
       <pubDate>Fri, 13 Mar 2026 15:02:05 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.1 Pre-Release 1</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release--1</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release-1</link>
       <description>Today we are shipping the first pre-release for Java version 26.1, the Tiny Takeover game drop! From now on, you should mostly see bugs being fixed. In addition to that, pre-releases don't follow the regular snapshot cadence of releasing on Tuesdays, so ke</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release--1</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release-1</guid>
       <pubDate>Tue, 10 Mar 2026 15:01:23 +0000</pubDate>
     </item>
     <item>
@@ -599,9 +599,9 @@
     </item>
     <item>
       <title>Minecraft 24w33a</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-snapshot-24w33a</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-24w33a</link>
       <description>We know you have been waiting long for the next update, and we are finally kicking off the new snapshot cycle with Snapshot 24w33a!Over the summer someone changed our password and wouldn't let us know what it was until we finished 200 bug fixes (the passwo</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-snapshot-24w33a</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-24w33a</guid>
       <pubDate>Thu, 15 Aug 2024 14:58:51 +0000</pubDate>
     </item>
     <item>
@@ -1765,9 +1765,9 @@ Patrols no longer spawn when the play</description>
     </item>
     <item>
       <title>1.21.8 Release Candidate 1</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-1-21-8-release-candidate-1</link>
+      <link>https://www.minecraft.net/en-us/article/1-21-8-release-candidate-1</link>
       <description>Hotfix coming in ho-... very cold? Today we're releasing 1.21.8 Release Candidate 1, addressing various graphical corruption and freeze issues on certain graphics devices.As always, if you encounter any graphical issues with this Release Candidate, reports</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-21-8-release-candidate-1</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/1-21-8-release-candidate-1</guid>
       <pubDate>Tue, 15 Jul 2025 14:33:35 +0000</pubDate>
     </item>
     <item>
@@ -1828,9 +1828,9 @@ Patrols no longer spawn when the play</description>
     </item>
     <item>
       <title>1.21.6 Pre-Release 1</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-1</link>
+      <link>https://www.minecraft.net/en-us/article/1-21-6-pre-release-1</link>
       <description>Hey! This is the first pre-release of 1.21.6. From now on, you will mostly see us fixing bugs and the release schedule might include more than one pre-release per week. We are on the finish line for the second drop of the year!ChangesThe Dried Ghast Block </description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-21-6-pre-release-1</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/1-21-6-pre-release-1</guid>
       <pubDate>Wed, 28 May 2025 09:53:18 +0000</pubDate>
     </item>
     <item>
@@ -1849,9 +1849,9 @@ Patrols no longer spawn when the play</description>
     </item>
     <item>
       <title>1.21.5 Release Candidate 1</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-1-21-5-release-candidate-1</link>
+      <link>https://www.minecraft.net/en-us/article/1-21-5-release-candidate-1</link>
       <description>With Minecraft Live just around the corner, we are getting closer to the release of the first drop of the year. Today we're shipping the first 1.21.5 Release Candidate with a few bug fixes, which means if no new critical issues surface, this is the version</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-21-5-release-candidate-1</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/1-21-5-release-candidate-1</guid>
       <pubDate>Thu, 20 Mar 2025 16:06:17 +0000</pubDate>
     </item>
     <item>
@@ -1891,9 +1891,9 @@ Patrols no longer spawn when the play</description>
     </item>
     <item>
       <title>1.21.4 Release Candidate 2</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-1-21-4-release-candidate-2</link>
+      <link>https://www.minecraft.net/en-us/article/1-21-4-release-candidate-2</link>
       <description>Today we are releasing 1.21.4 Release Candidate 2 to activate Blending around the Pale Garden Biome.If no further critical issues surface, this is the version we are planning to ship as Minecraft: Java Edition 1.21.4.Happy Mining!Fixed bugs in 1.21.4 Relea</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-21-4-release-candidate-2</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/1-21-4-release-candidate-2</guid>
       <pubDate>Fri, 29 Nov 2024 11:58:57 +0000</pubDate>
     </item>
     <item>
@@ -1905,16 +1905,16 @@ Patrols no longer spawn when the play</description>
     </item>
     <item>
       <title>1.21.4 Pre-Release 3</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-1-21-4-pre-release-3</link>
+      <link>https://www.minecraft.net/en-us/article/1-21-4-pre-release-3</link>
       <description>We are now releasing a third Pre-Release for Minecraft 1.21.4 to fix a crash and a few bugs. Watch your step before jumping!Fixed bugs in 1.21.4 Pre-Release 3MC-277977 Teleporting large distances whilst gliding prevents the world from loading and player mo</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-21-4-pre-release-3</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/1-21-4-pre-release-3</guid>
       <pubDate>Tue, 26 Nov 2024 15:38:31 +0000</pubDate>
     </item>
     <item>
       <title>1.21.4 Pre-Release 2</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-1-21-4-pre-release-2</link>
+      <link>https://www.minecraft.net/en-us/article/1-21-4-pre-release-2</link>
       <description>We are starting off this week with the second 1.21.4 Pre-Release, including even more bug fixes!Happy mining!Technical ChangesThe Data Pack version is now 61Data Pack Version 61Furnace, Smoker and Blast Furnace DataRenamed CookTime to cooking_time_spentRen</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-21-4-pre-release-2</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/1-21-4-pre-release-2</guid>
       <pubDate>Mon, 25 Nov 2024 14:57:22 +0000</pubDate>
     </item>
     <item>
@@ -1961,16 +1961,16 @@ Patrols no longer spawn when the play</description>
     </item>
     <item>
       <title>1.21.2 Pre-Release 4</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-1-21-2-pre-release-4</link>
+      <link>https://www.minecraft.net/en-us/article/1-21-2-pre-release-4</link>
       <description>Hello! Another day, another Pre-Release. We're releasing the fourth Pre-Release of 1.21.2, further stabilizing this version.Happy mining!Fixed bugs in 1.21.2 Pre-Release 4MC-277496 Text on maps that are in item frames render through blocksMC-277502 Compass</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-21-2-pre-release-4</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/1-21-2-pre-release-4</guid>
       <pubDate>Tue, 15 Oct 2024 12:58:37 +0000</pubDate>
     </item>
     <item>
       <title>1.21.2 Pre-Release 3</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-1-21-2-pre-release-3</link>
+      <link>https://www.minecraft.net/en-us/article/1-21-2-pre-release-3</link>
       <description>We are rounding off this week with the third 1.21.2 Pre-Release, including even more bug fixes!Happy mining and have a nice weekend!ChangesHigh Contrast Resource PackAdded the following high contrast textures:Frame and background textures for tooltipsSlot </description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-21-2-pre-release-3</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/1-21-2-pre-release-3</guid>
       <pubDate>Fri, 11 Oct 2024 13:22:56 +0000</pubDate>
     </item>
     <item>
@@ -2209,13 +2209,13 @@ MC-267185 Decorated pots can delete items when reloading the world</description>
     </item>
     <item>
       <title>Minecraft 1.20.4</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-1-20-4</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-1-20-4</link>
       <description>Minecraft 1.20.4 is a hotfix release for Java Edition which fixes a critical bug that could cause items to vanish after being stored in a Decorated Pot.
 Happy Pot Smashing!
 Fixed bugs in 1.20.4
 
 MC-267185: Decorated pots can delete items when reloading the</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-1-20-4</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-20-4</guid>
       <pubDate>Thu, 07 Dec 2023 12:56:20 +0000</pubDate>
     </item>
     <item>
@@ -2280,10 +2280,10 @@ World</description>
     </item>
     <item>
       <title>Minecraft 1.20.3</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-1-20-3</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-1-20-3</link>
       <description>We're now releasing 1.20.3 for Minecraft: Java Edition. This release comes with new functionality for Decorated Pots, a new look for the Bat and improvements to Shields.
 This release also includes new features for map makers and pack creators like Scoreboa</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-1-20-3</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-20-3</guid>
       <pubDate>Mon, 04 Dec 2023 12:10:32 +0000</pubDate>
     </item>
     <item>
@@ -2451,10 +2451,10 @@ Game will now display message box on startup if user enabled text-to-speech func
     </item>
     <item>
       <title>Minecraft 1.20 Pre-release 1 </title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-1-20-pre-release-1</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-1-20-pre-release-1-</link>
       <description>It is now time for the first Pre-release for Minecraft 1.20: The Trails and Tales update!
 From now on, you should mostly see bugs being fixed. In addition to that, pre-releases don't follow the regular snapshot cadence of releasing on Wednesdays, so keep a</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-20-pre-release-1</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-20-pre-release-1-</guid>
       <pubDate>Wed, 10 May 2023 12:19:34 +0000</pubDate>
     </item>
     <item>
@@ -2815,9 +2815,9 @@ While we’re on the topic – have you had a chance to check out all the other 
     </item>
     <item>
       <title>Minecraft 1.18.2 Release Candidate</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-1-18-2-release-candidate-1</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-1-18-2-release-candidate</link>
       <description>We’re now releasing the first (and hopefully only) release candidate for Minecraft 1.18.2. This release candidate fixes two world generation bugs that could cause a server to stop running. If there are no major issues following this release, no further cha</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-18-2-release-candidate-1</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-18-2-release-candidate</guid>
       <pubDate>Fri, 25 Feb 2022 13:25:40 +0000</pubDate>
     </item>
     <item>
@@ -3324,9 +3324,9 @@ To install th</description>
     </item>
     <item>
       <title>Minecraft 1.16 Release Candidate</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-1-16-release-candidate-1</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-1-16-release-candidate</link>
       <description>Out with the old, and in with the new! Today we're introducing a new naming convention (well, it's been a while) for Minecraft Java Edition. Previously, the last pre-release was, in fact, the release candidate, but we're now making that more clear by chang</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-16-release-candidate-1</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-16-release-candidate</guid>
       <pubDate>Thu, 18 Jun 2020 12:49:28 +0000</pubDate>
     </item>
     <item>
@@ -3422,7 +3422,7 @@ Today we're releasing the full Nether Update in all its glory! Traverse through 
     </item>
     <item>
       <title>Minecraft: Java Edition 1.15.2 Pre-release 2</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-1-15-2-pre-release-2</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-1-15-2-pre-release-2</link>
       <description>CHANGES IN 1.15.2 PRE-RELEASE 2
 
 Fixed bugs
@@ -3431,18 +3431,18 @@ FIXED BUGS IN 1.15.2 PRE-RELEASE 2
 
 MC-169825 - “Multiplayer (3rd party)” shows in window title when disconnecting from a singleplayer world
 MC-169839 - Certain potion effects that override lower level effects d</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-15-2-pre-release-2</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-1-15-2-pre-release-2</guid>
       <pubDate>Thu, 16 Jan 2020 12:35:57 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft: Java Edition 1.15.2 Pre-release 1</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-1-15-2-pre-release-1</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-1-15-2-pre-release-1</link>
       <description>CHANGES IN 1.15.2 PRE-RELEASE 1
 
 Bees no longer anger when a nearby nest/hive is destroyed using a silk touch tool
 Added doPatrolSpawning and doTraderSpawning game rules that control spawning of patrols and wandering traders, respectively
 Added gui_light o</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-1-15-2-pre-release-1</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-1-15-2-pre-release-1</guid>
       <pubDate>Tue, 14 Jan 2020 16:19:31 +0000</pubDate>
     </item>
     <item>
@@ -3500,7 +3500,7 @@ Rewrote the book &amp;#x26; </description>
     </item>
     <item>
       <title>Minecraft: Java Edition 1.13 Aquatic</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-1-13</link>
+      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-1-13-aquatic</link>
       <description>Aquatic changelog
 General
 
@@ -3512,7 +3512,7 @@ Overhauled world generation
 Overhauled command parser
 Added new world type "Buffet"
 Allows you to create wor</description>
-      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-1-13</guid>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-1-13-aquatic</guid>
       <pubDate>Wed, 18 Jul 2018 15:11:46 +0000</pubDate>
     </item>
   </channel>
