@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 13:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 15:23:41 +0000</lastBuildDate>
+    <item>
+      <title>Minecraft 26.3 Snapshot 4</title>
+      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-3-snapshot-4</link>
+      <description>Known IssuesExclusive fullscreen mode on Windows may cause the game to crash in certain situations, especially when using multiple monitorsEntering Exclusive fullscreen mode crashes the game on WaylandNew FeaturesPlayers in spectator mode can now interact </description>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-3-snapshot-4</guid>
+      <pubDate>Thu, 16 Jul 2026 14:40:23 +0000</pubDate>
+    </item>
     <item>
       <title>Minecraft 26.3 Snapshot 3</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-3-snapshot-3</link>
@@ -21,7 +28,7 @@
       <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-3-snapshot-2</link>
       <description>We're back with the second snapshot for 26.3! This week brings a new rendering option designed to improve transparency handling in Minecraft Java. We've also optimized certain mob behaviors when players aren't nearby, made a few gameplay adjustments, inclu</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-java-edition-26-3-snapshot-2</guid>
-      <pubDate>Tue, 30 Jun 2026 13:59:13 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 13:59:14 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.3 Snapshot 1</title>
