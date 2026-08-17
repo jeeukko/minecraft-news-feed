@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 14:15:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 15:14:26 +0000</lastBuildDate>
+    <item>
+      <title>Minecraft 26.3 Snapshot 9</title>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-9</link>
+      <description>Looks like this Snapshot couldn't wait until Tuesday! Arriving a day early, it brings new customization options for Realms. Owners can now increase render distance up to 25 chunks and separately configure render and simulation distance to find the balance </description>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-9</guid>
+      <pubDate>Mon, 17 Aug 2026 14:04:38 +0000</pubDate>
+    </item>
     <item>
       <title>Minecraft 26.3 Snapshot 8</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-8</link>
