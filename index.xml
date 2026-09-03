@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 14:46:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:10:50 +0000</lastBuildDate>
     <item>
       <title>Minecraft 26.3 Snapshot 9</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-9</link>
@@ -42,7 +42,7 @@
       <link>https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-5</link>
       <description>Happy Snapshot day! Today we are shipping the 5th snapshot of 26.3 with a fresh batch of updates and improvements.Happy mining!Technical ChangesThe Data Pack version is now 112.0The Resource Pack version is now 93.0Data Pack Version 112.0Codec for element </description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-5</guid>
-      <pubDate>Tue, 21 Jul 2026 12:59:34 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 12:59:33 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.3 Snapshot 4</title>
@@ -63,14 +63,14 @@
       <link>https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-2</link>
       <description>We're back with the second snapshot for 26.3! This week brings a new rendering option designed to improve transparency handling in Minecraft Java. We've also optimized certain mob behaviors when players aren't nearby, made a few gameplay adjustments, inclu</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-2</guid>
-      <pubDate>Tue, 30 Jun 2026 13:59:14 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 13:59:13 +0000</pubDate>
     </item>
     <item>
       <title>26.3-snapshot-10</title>
       <link>https://www.minecraft.net/en-us/article/26-3-snapshot-10</link>
       <description>We've safely made it to 26.3 Snapshot 10! This week, the Dappled Forest panorama has made its way to the main menu, bringing cozy fall vibes every time you launch the game. This snapshot also includes a variety of technical changes and improvements, so dig</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/26-3-snapshot-10</guid>
-      <pubDate>Tue, 25 Aug 2026 14:01:09 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 14:01:11 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.3 Snapshot 1</title>
