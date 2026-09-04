@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 11:50:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:20:00 +0000</lastBuildDate>
     <item>
       <title>Minecraft 26.3 Snapshot 9</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-9</link>
@@ -78,6 +78,13 @@
       <description>Word around the campfire is the new forest biome is out in testing! But if nobody's been to the dappled forest before, who built the abandoned camp? And what loot did they leave among the poplar trees and red shrubs? Scout out the place and set up shelter </description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-1</guid>
       <pubDate>Tue, 23 Jun 2026 14:02:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Minecraft 26.3 Pre-Release 2</title>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-3-pre-release-2</link>
+      <description>Two pre-releases in one week!? That's right! Now that we're in the pre-release phase, we're no longer following our regular snapshot schedule. This also means we're spending more time hunting bugs as we get things ready for release, and this pre-release is</description>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-3-pre-release-2</guid>
+      <pubDate>Fri, 04 Sep 2026 14:02:06 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.3 Pre-Release 1</title>
