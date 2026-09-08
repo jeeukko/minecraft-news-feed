@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:51:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:33:48 +0000</lastBuildDate>
     <item>
       <title>Minecraft 26.3 Snapshot 9</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-9</link>
@@ -42,7 +42,7 @@
       <link>https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-5</link>
       <description>Happy Snapshot day! Today we are shipping the 5th snapshot of 26.3 with a fresh batch of updates and improvements.Happy mining!Technical ChangesThe Data Pack version is now 112.0The Resource Pack version is now 93.0Data Pack Version 112.0Codec for element </description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-5</guid>
-      <pubDate>Tue, 21 Jul 2026 12:59:34 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 12:59:33 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.3 Snapshot 4</title>
@@ -63,14 +63,14 @@
       <link>https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-2</link>
       <description>We're back with the second snapshot for 26.3! This week brings a new rendering option designed to improve transparency handling in Minecraft Java. We've also optimized certain mob behaviors when players aren't nearby, made a few gameplay adjustments, inclu</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-2</guid>
-      <pubDate>Tue, 30 Jun 2026 13:59:14 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 13:59:13 +0000</pubDate>
     </item>
     <item>
       <title>26.3-snapshot-10</title>
       <link>https://www.minecraft.net/en-us/article/26-3-snapshot-10</link>
       <description>We've safely made it to 26.3 Snapshot 10! This week, the Dappled Forest panorama has made its way to the main menu, bringing cozy fall vibes every time you launch the game. This snapshot also includes a variety of technical changes and improvements, so dig</description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/26-3-snapshot-10</guid>
-      <pubDate>Tue, 25 Aug 2026 14:01:09 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 14:01:11 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.3 Snapshot 1</title>
@@ -78,6 +78,13 @@
       <description>Word around the campfire is the new forest biome is out in testing! But if nobody's been to the dappled forest before, who built the abandoned camp? And what loot did they leave among the poplar trees and red shrubs? Scout out the place and set up shelter </description>
       <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-1</guid>
       <pubDate>Tue, 23 Jun 2026 14:02:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Minecraft 26.3 Pre-Release 3</title>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-3-pre-release-3</link>
+      <description>The road to release continues with pre-release 3! Today we're tackling another batch of bug fixes as we prepare for a full release of 26.3.Happy Mining!Technical ChangesThe Data Pack version is now 121.0Number ProvidersChanged minecraft:mod Float Provider </description>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-3-pre-release-3</guid>
+      <pubDate>Tue, 08 Sep 2026 14:11:44 +0000</pubDate>
     </item>
     <item>
       <title>Minecraft 26.3 Pre-Release 2</title>
