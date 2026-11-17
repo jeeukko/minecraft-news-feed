@@ -8,7 +8,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 12:35:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 21:25:18 +0000</lastBuildDate>
+    <item>
+      <title>Minecraft 26.4 Snapshot 10</title>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-10</link>
+      <description>We have now released 26.4 Snapshot 10, fixing a crash in the Multiplayer screen.</description>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-10</guid>
+      <pubDate>Tue, 17 Nov 2026 16:02:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Minecraft 26.4 Snapshot 9</title>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-9</link>
+      <description>26.4 Snapshot 9 is here, bringing data-driven dispensers, Vulkan as the default graphics backend, and a new setting to fine-tune your fog. We've also made improvements to keyboard navigation and narration, alongside a few other tweaks and fixes!&#13;
+&#13;
+Happy mining!</description>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-9</guid>
+      <pubDate>Tue, 17 Nov 2026 12:58:45 +0000</pubDate>
+    </item>
     <item>
       <title>Minecraft 26.4 Snapshot 8</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-26-4-snapshot-8</link>
