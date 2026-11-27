@@ -8,7 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 09:12:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 19:13:40 +0000</lastBuildDate>
+    <item>
+      <title>Minecraft 26.4 Pre-Release 2</title>
+      <link>https://www.minecraft.net/en-us/article/minecraft-26-4-pre-release-2</link>
+      <description>It's Friday! To celebrate the weekend, we're releasing the second pre-release for 26.4: Deep Freeze! This time around, we've been busy fixing bugs, with a new data pack tag added for good measure. We're now one step closer to release!&#13;
+&#13;
+Happy weekend mining!</description>
+      <guid isPermaLink="true">https://www.minecraft.net/en-us/article/minecraft-26-4-pre-release-2</guid>
+      <pubDate>Fri, 27 Nov 2026 10:00:38 +0000</pubDate>
+    </item>
     <item>
       <title>Minecraft 26.4 Pre-Release 1</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-26-4-pre-release-1</link>
